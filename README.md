@@ -1,4 +1,4 @@
-Scott has been a web developer since 2001, with experience in multiple languages (HTML, CSS, JS, SQL, Solidity) with multiple tools (VS Code, Git, JQuery, Bootstrap, Node, MySQL, MongoDB, Express, React).
+Scott has been a web developer since 2001, with experience in multiple languages (HTML, CSS, JS, SQL, Solidity) and multiple tools (VS Code, Git, JQuery, Bootstrap, Node, MySQL, MongoDB, Express, React).
 
 Projects include dissertation on information theory & music, information architecture for Library of Texas, and full stack web development for U. North Texas, U. South Florida, & U. Texas Austin.
 <!---
