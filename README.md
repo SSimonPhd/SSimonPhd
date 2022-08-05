@@ -3,7 +3,6 @@ Scott has been a web developer since 2001, with experience in multiple languages
 Projects include dissertation on information theory, information architecture for Library of Texas, and full stack web development for U. North Texas, U. South Florida, & U. Texas Austin.
 
 ### Programming Languages and Tools:
-<br />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
