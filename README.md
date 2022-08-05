@@ -2,7 +2,6 @@ I have been a web developer since 2001, with experience in multiple languages (H
 
 Projects include dissertation on information theory, information architecture for Library of Texas, and full stack web development for U. North Texas, U. South Florida, & U. Texas Austin.
 
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
