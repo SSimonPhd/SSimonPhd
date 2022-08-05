@@ -1,7 +1,5 @@
 Web developer since 2001, experienced in multiple languages (HTML, CSS, JS, SQL, Solidity) and multiple tools (VS Code, Git, JQuery, Bootstrap, Node, MySQL, MongoDB, Express, React). 
 
-I record audio with Avid Pro Tools, and notate music with Sibelius. For video I use Adobe Premiere Pro.
-
 Projects include dissertation on information theory, information architecture for Library of Texas, and full stack web development for U. North Texas, U. South Florida, & U. Texas Austin.
 
 Programming Languages and Tools:
