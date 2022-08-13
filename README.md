@@ -22,7 +22,7 @@ CODE | TOOLS | DATA | APPS
 <img align="left" alt="Premiere Pro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSimonPhd)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=SSimonPhd)]
 
 <!---
 SSimonPhd/SSimonPhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
