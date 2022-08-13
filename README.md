@@ -21,9 +21,6 @@ CODE | TOOLS | DATA | APPS
 <img align="left" alt="Pro Tools" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/PT2019.png" style="padding-right:10px;" />
 <img align="left" alt="Premiere Pro" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="padding-right:10px;" />
 
-
-[!(https://github-readme-stats.vercel.app/api?username=SSimonPhd)]
-
 <!---
 SSimonPhd/SSimonPhd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
