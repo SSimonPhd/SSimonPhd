@@ -2,6 +2,8 @@ Web developer since 2001, experienced in multiple languages (HTML, CSS, JS, Soli
 
 Projects include dissertation on information theory, information architecture for Library of Texas, and full stack web development for U. North Texas, U. South Florida, & U. Texas Austin.
 
+You can contact me at: simon_phd@proton.me
+
 CODE | TOOLS | DATA | APPS
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
