@@ -1,6 +1,6 @@
 Information Scientist/Web Developer with a hard focus on Blockchain, DeFi, and Web3. Relevant experience in Information Architecture and Cloud Services. Published research applying math and logic to solve real world problems. 
 
-You can contact me at: simon_phd@proton.me
+Contact me at: simon_phd@proton.me
 
 CODE | TOOLS | DATA | APPS
 
