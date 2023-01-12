@@ -1,4 +1,4 @@
-Multidisciplinary Full Stack Web Developer and Data Analyst with a talent for condensing large data into a simple to understand story and building websites from mockup to rollout. Adept at working independently as well as collaborating with teams across multiple functions to break down concepts in layman terms. Deliver experience obtained through a cross-functional organization to streamline data analysis, reporting, and auditing. Prepared to excel in solving complex problems. 
+Information Scientist/Web Developer with a hard focus on Blockchain, DeFi, and Web3. Relevant experience in Information Architecture and Cloud Services. Published research applying math and logic to solve real world problems. 
 
 You can contact me at: simon_phd@proton.me
 
