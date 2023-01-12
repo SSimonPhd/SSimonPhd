@@ -1,4 +1,4 @@
-Information Scientist/Web Developer with a hard focus on Blockchain, DeFi, and Web3. Relevant experience in Information Architecture and Cloud Services. Published research applying math and logic to solve real world problems. 
+Information Scientist/Web Developer with a hard focus on Blockchain, DeFi, and Web3. Relevant experience in Information Architecture and Cloud Services. Published researcher applying math and logic to solve real world problems. 
 
 Contact me at: simon_phd@proton.me
 
