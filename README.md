@@ -1,4 +1,4 @@
-Information Scientist/Web Developer with a hard focus on Blockchain, DeFi, and Web3. Relevant experience in Information Architecture and Cloud Services. Published researcher applying math and logic to solve real world problems. 
+Multidisciplinary Full Stack Web Developer and Information Scientist with a talent for condensing large data into a simple to understand story and building websites from mockup to rollout. Adept at working independently as well as collaborating with teams across multiple functions to break down concepts in layman terms. Bring experience obtained through a cross-functional organization to streamline the development process. Prepared to excel in solving complex problems.
 
 Contact: simon_phd@proton.me
 
