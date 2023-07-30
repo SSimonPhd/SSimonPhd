@@ -1,8 +1,4 @@
-I have a dual background in music and tech; my PhD was interdisciplinary. My dissertation applied information theory to music analysis. My music activities are complementary with my tech work, each enhances the creativity of the other.
- 
-As far as tech experience, I ran the Oracle-PeopleSoft portal for the University of North Texas, developed architecture for the state-wide digital Library of Texas as a research fellow, and taught graduate courses in web design, information services, and information architecture for several years at the University of South Florida. 
-
-Since then I have been essentially self-employed by choice, but open to mutually beneficial opportunities, and deep in cryptocurrency and blockchain. Musically I am focused on continuing explorations in Baroque and Contemporary classical guitar repertoire.
+Thinking in music, singing in code, confounding the modernist division of labor and post-modernist fragmentation of being. Asymmetric complimentarily contradicting entropy, thriving in an interdisciplinary universe. A biomorphic self learning ecosystem, synthesis of Ubermensch and Hang Man, Rorschach test and Blind man’s buff, defying gravity with leaps of faith; volunteer for life in service to the timeless.
 
 Contact: simon_phd@proton.me
 
