@@ -1,4 +1,8 @@
-Multidisciplinary Full Stack Web Developer and Information Scientist with a talent for condensing large data into a simple to understand story and building websites from mockup to rollout. Adept at working independently as well as collaborating with teams across multiple functions to break down concepts in layman terms. Deliver experience obtained through a cross-functional organization to streamline the development process. Prepared to excel in solving complex problems.
+I have a dual background in music and tech; my PhD was interdisciplinary. My dissertation applied information theory to music analysis. My music activities are complementary with my tech work, each enhances the creativity of the other.
+ 
+As far as tech experience, I ran the Oracle-PeopleSoft portal for the University of North Texas, developed architecture for the state-wide digital Library of Texas as a research fellow, and taught graduate courses in web design, information services, and information architecture for several years at the University of South Florida. 
+
+Since then I have been essentially self-employed by choice, but open to mutually beneficial opportunities, and deep in cryptocurrency and blockchain. Musically I am focused on continuing explorations in Baroque and Contemporary classical guitar repertoire.
 
 Contact: simon_phd@proton.me
 
