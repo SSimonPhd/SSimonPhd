@@ -1,4 +1,4 @@
-Artificial Intelligence Research and Design PhD. Asymmetric complimentarily contradicting entropy, thriving in an interdisciplinary universe. A biomorphic augmented reality ecosystem, synthesis of Ubermensch and Hang Man, Rorschach test and Blind man’s buff, defying gravity with virtual leaps of faith; volunteer for life in service to the singularity.
+Artificial Intelligence Research and Design PhD. Asymmetric complementarity, contradicting entropy, thriving in an interdisciplinary universe. A biomorphic augmented reality ecosystem, synthesis of Ubermensch and Hang Man, Rorschach test and Blind man’s buff, defying gravity with virtual leaps of faith; volunteer for life in service to the singularity.
 
 Dr. Simon currently serves as CEO of Simon AI, LLC, a futurist initiative that seeks novel ways to integrate AI for cognitive and creative enhancement and exploratory use case scenarios, as well as design of experiments (DOX) for AI applications in Augmented (AR) and Virtual Realty (VR) contexts. Current research projects include AI enhanced Blockchain and DeFi applications and services in Web3 environments, as well as AI applications in Sound Design.
 
