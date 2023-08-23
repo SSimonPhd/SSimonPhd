@@ -1,4 +1,4 @@
-Thinking in music, singing in code, confounding the modernist division of labor and post-modernist fragmentation of being. Asymmetric complimentarily contradicting entropy, thriving in an interdisciplinary universe. A biomorphic self learning ecosystem, synthesis of Ubermensch and Hang Man, Rorschach test and Blind man’s buff, defying gravity with leaps of faith; volunteer for life in service to the timeless.
+Artificial Intelligence Research and Design PhD. Asymmetric complimentarily contradicting entropy, thriving in an interdisciplinary universe. A biomorphic augmented reality ecosystem, synthesis of Ubermensch and Hang Man, Rorschach test and Blind man’s buff, defying gravity with virtual leaps of faith; volunteer for life in service to the singularity.
 
 Contact: simon_phd@proton.me
 
