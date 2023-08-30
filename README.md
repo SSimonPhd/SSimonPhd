@@ -1,4 +1,9 @@
-Dr. Simon currently serves as CEO of Simon AI, LLC, a futurist think tank that seeks novel ways to integrate AI for cognitive and creative enhancement and exploratory use case scenarios, as well as design of experiments (DOX) for AI applications in Augmented (AR) and Virtual Realty (VR) contexts. Current research projects include AI enhanced Blockchain and DeFi applications and services in Web3 environments, as well as AI applications in Sound Design.
+Multidisciplinary Full Stack Web Developer and Data Analyst with a passion for condensing large
+data into a simple to understand story and building websites from mockup to rollout. Adept at
+working independently as well as collaborating with teams across multiple functions to break
+down concepts in layman terms. Bring experience obtained through a cross-functional
+organization to streamline data analysis, reporting, and auditing. Prepared to excel in solving
+complex problems.
 
 Contact: simon_phd@proton.me
 
