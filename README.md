@@ -1,4 +1,4 @@
-Multidisciplinary PhD with a diverse background in IT, Research, Writing, and Education. Current focus on Blockchain, DeFi, and Web3.
+Multidisciplinary PhD with a diverse background in IT, Research, Writing, and Education.
 
 Contact: simon_phd@proton.me
 
