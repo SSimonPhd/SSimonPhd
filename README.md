@@ -1,4 +1,4 @@
-Multidisciplinary PhD with a diverse background in IT, Research, Writing, and Education.
+Multidisciplinary PhD with a talent for condensing large data into a simple to understand story and building websites from mockup to rollout. Adept at working independently as well as collaborating with teams across multiple functions to break down concepts in layman terms. Deliver experience obtained through a cross-functional organization to streamline the development process. Prepared to excel in solving complex problems.
 
 Contact: simon_phd@proton.me
 
