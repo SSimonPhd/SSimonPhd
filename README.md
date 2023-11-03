@@ -1,4 +1,4 @@
-Metadisciplinary PhD with a diverse background in IT, Research, Writing, Music, and Education.
+Metadisciplinary PhD with an integrated background in IT, Research, Writing, Music, and Education.
 
 Contact: simon_phd@proton.me
 
