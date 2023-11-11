@@ -2,6 +2,8 @@ Scott J. Simon, PhD (University of North Texas) is a metadisciplinary scholar, m
 
 His books include: Thoughts, Worlds, Beliefs: The Architectures of Reality (a metamodern study of belief); Magic Hat: A Poetry of Enchantment (inspired by magical intrusions in daily life); and Preformations (a collection of philosophic essays on Plato, Friedrich Nietzsche, Martin Heidegger, Hans Jonas, Merleau-Ponty, and Michel Foucault).
 
+Links: https://linktr.ee/simon_phd
+
 Contact: simon_phd@proton.me
 
 CODE | TOOLS | DATA | APPS
