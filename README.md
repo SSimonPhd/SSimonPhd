@@ -1,4 +1,4 @@
-Scott J. Simon, PhD (University of North Texas) is an information scientist, educator, and published author with related experience in web development, information architecture, and knowledge management. 
+Scott J. Simon, PhD (University of North Texas) is an information scientist, educator, and published author with relevant experience in web development, information architecture, and knowledge management. 
 
 Dr. Simon has served on the faculty of the University of South Florida and San Jose State and presented at conferences both nationally and internationally.
 
