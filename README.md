@@ -1,6 +1,8 @@
-Scott J. Simon, PhD (University of North Texas) is a scholar, musician, and poet located in Austin, Texas. He holds degrees in music, philosophy, information technology, and information science. Dr. Simon has served on the faculty of the University of South Florida and San Jose State and presented at conferences both nationally and internationally. 
+Scott J. Simon, PhD (University of North Texas) is an information scientist, educator, and published author with research experience in web development, information architecture, and knowledge management. 
 
-His books include: Thoughts, Worlds, Beliefs: The Architectures of Reality (a metamodern study of belief); Magic Hat: A Poetry of Enchantment (inspired by magical intrusions in daily life); and Preformations (a collection of philosophic essays on Plato, Friedrich Nietzsche, Martin Heidegger, Hans Jonas, Merleau-Ponty, and Michel Foucault).
+Dr. Simon has served on the faculty of the University of South Florida and San Jose State and presented at conferences both nationally and internationally.
+
+Currently, Scott works as an independent developer and investor in the emerging field of decentralized finance.
 
 Links: https://linktr.ee/simon_phd
 
