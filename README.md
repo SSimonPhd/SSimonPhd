@@ -2,7 +2,7 @@ Scott J. Simon, PhD (University of North Texas) is an information scientist, edu
 
 Dr. Simon has served on the faculty of the University of South Florida and San Jose State and presented at conferences both nationally and internationally.
 
-Currently, Scott works as an independent developer and investor in the emerging field of decentralized finance.
+Currently, Scott works as an independent developer and investment analyst in the emerging field of decentralized finance.
 
 Links: https://linktr.ee/simon_phd
 
