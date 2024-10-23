@@ -1,4 +1,4 @@
-Dr. Simon is a metadisciplinary PhD with a diverse background in information technology and research. Currently, his focus is on blockchain, decentralized finance, and web3. He also pursues parallel interests in investing, musicology, and philosophy. 
+Dr. Simon is a metadisciplinary PhD with a diverse background in information technology and research. Currently, his focus is on blockchain, decentralized finance, and web3.
 
 Links: https://linktr.ee/simon_phd
 
