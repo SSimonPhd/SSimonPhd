@@ -22,7 +22,7 @@ Available for remote-only, flexible expert work:
 – AI ethics & safety evaluation
 – crypto/DeFi tech writing or specialist support
 
-Prefer async, no-meeting roles. Rate $40–70/hr depending on complexity.
+Prefer async, no-meeting roles. Rate $40–200/hr depending on complexity.
 
 Currently reading Plotinus and teaching one remaining classical-guitar student who found me by synchronicity.
 
