@@ -27,7 +27,7 @@ Available for remote-only, flexible expert work:
 – AI training (humanities/multimodal)
 – Crypto/DeFi specialist support
 
-Prefer async, low-meeting roles. Rate $50–200/hr (depending on complexity).
+Prefer async, low-meeting roles. Rate $50–200/hr (negotiable).
 
 Currently reading Plotinus and teaching one remaining classical-guitar student who found me by synchronicity.
 
