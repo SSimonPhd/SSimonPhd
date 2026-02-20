@@ -4,6 +4,6 @@ Currently leading AI safety red-teaming and RLHF annotation at Mercor. Expertise
 
 Seeking roles in AI training, instructional design, eLearning/curriculum development, research administration, or project management (remote, hybrid, or on-site).
 
-Currently reading Plotinus and teaching one remaining classical-guitar student who found me by synchronicity.
+Also reading Plotinus and teaching one remaining classical-guitar student who found me by synchronicity.
 
 Open to interesting projects. DMs welcome.
