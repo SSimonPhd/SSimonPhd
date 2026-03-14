@@ -5,7 +5,3 @@ Currently leading AI safety red-teaming and guardrail development at Mercor thro
 Specialized in model evaluation, AI training protocols, and project management for frontier AI initiatives. 
 
 Seeking roles in AI Safety, Red Teaming, Agentic AI, AI Training, and Project Management (remote, hybrid, or on-site in Austin).
-
-Reading Plotinus and teaching one remaining classical-guitar student who found me by synchronicity.
-
-Open to interesting projects. DMs welcome.
