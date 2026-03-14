@@ -1,9 +1,9 @@
-PhD in Information Science with 15+ years of teaching, curriculum development, and complex systems analysis. 
+PhD in Information Science with deep expertise in complex systems analysis and AI safety evaluation. Currently leading AI safety red-teaming and guardrail development at Mercor through adversarial testing with advanced jailbreaks, rubric creation, and comparative model evaluation (e.g., Gemini Pro vs Opus) for RLHF and safety protocols. 
 
-Currently leading AI safety red-teaming and RLHF annotation at Mercor. Expertise in multimodal curation, eLearning module development, and research administration. 
+Specialized in model evaluation, AI training protocols, and project management for frontier AI initiatives. 
 
-Seeking roles in AI training, instructional design, eLearning/curriculum development, research administration, or project management (remote, hybrid, or on-site).
+Seeking roles in AI Safety, Red Teaming, Agentic AI, AI Training, and Project Management (remote, hybrid, or on-site in Austin).
 
-Also reading Plotinus and teaching one remaining classical-guitar student who found me by synchronicity.
+Currently reading Plotinus and teaching one remaining classical-guitar student who found me by synchronicity.
 
 Open to interesting projects. DMs welcome.
