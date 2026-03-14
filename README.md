@@ -6,6 +6,6 @@ Specialized in model evaluation, AI training protocols, and project management f
 
 Seeking roles in AI Safety, Red Teaming, Agentic AI, AI Training, and Project Management (remote, hybrid, or on-site in Austin).
 
-Currently reading Plotinus and teaching one remaining classical-guitar student who found me by synchronicity.
+Reading Plotinus and teaching one remaining classical-guitar student who found me by synchronicity.
 
 Open to interesting projects. DMs welcome.
